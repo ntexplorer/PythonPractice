@@ -18,4 +18,4 @@ while bullet_num > 0:
     bullet_num -= 1
     if bullet_num == 0:
         break
-print("You've ran out of bullets! Your total score is " + str(Game_Point) + "!")
+print("\nYou've ran out of bullets! Your total score is " + str(Game_Point) + "!")
