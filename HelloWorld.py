@@ -1,6 +1,5 @@
-cars = ['audi', 'bmw', 'subaru', 'toyota']
-for car in cars:
-    if car == "bmw":
-        print(car.upper())
-    else:
-        print(car.title())
+alphabets="abcdefghijklmnopqrstuvwxyz"
+for letter in alphabets:
+    if letter == "o":
+        continue
+    print (letter, end= "")
