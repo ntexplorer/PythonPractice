@@ -5,8 +5,8 @@ while 'pastrami' in sandwich_orders:
     sandwich_orders.remove("pastrami")
 while sandwich_orders:
     for sandwich in sandwich_orders:
-        print('I made your {} sandwich.'.format(sandwich))
         sandwich_made = sandwich_orders.pop()
+        print('I made your {} sandwich.'.format(sandwich_made))
         finished_sandwiches.append(sandwich_made)
 print('Sandwich all done, they are:')
 for sandwich in finished_sandwiches:
