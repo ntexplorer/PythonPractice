@@ -34,3 +34,12 @@ for item in records:
     alist = str2.split(',')
     adic[str1.strip()]=tuple([x.strip() for x in alist])
 print(adic)
+
+# 3-1_3
+with open ('test.txt', 'w') as f:
+    sts = "Python for Data Analysis.".split()
+    for st in sts:
+        f.write(st+"\n")
+with open('test.txt', 'r')as f:
+    st = f.read()
+    print(st)
