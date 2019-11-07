@@ -1,4 +1,3 @@
-a = [1, 2, 3]
-b = range(0, len(a))
+import  random
+a = random.randint(1,3)
 print(a)
-print(b)
