@@ -4,6 +4,7 @@ path2 = input("Please enter the subtitle path: ")
 
 f1 = os.listdir(path1)
 f2 = os.listdir(path2)
+extend = input("Please enter the extension of the video: ")
 
 # Rename PDF to MKV
 # for i in f1:
@@ -15,7 +16,7 @@ f2 = os.listdir(path2)
 
 # Rename ass to match the MKV
 for i in range(len(f2)):
-    video_name = f1[i].replace(".mkv", "")
+    video_name = f1[i].replace("." + extend, "")
     oldname2 = path2 + os.sep + f2[i]
     newname2 = path2 + os.sep + video_name + ".ass"
     os.rename(oldname2, newname2)
