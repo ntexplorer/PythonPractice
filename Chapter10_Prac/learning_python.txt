@@ -1,3 +1,0 @@
-In Python you can deal with list.
-In Python you can deal with dictionary.
-In Python you can acquire data from user input.

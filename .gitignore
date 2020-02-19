@@ -1,0 +1,28 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/.gitignore
+.idea/PythonPractice.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+venv/Include/
+venv/Lib/
+venv/Scripts/easy_install-3.7-script.py
+venv/Scripts/easy_install-3.7.exe
+venv/Scripts/easy_install-script.py
+venv/Scripts/easy_install.exe
+venv/Scripts/pip-script.py
+venv/Scripts/pip.exe
+venv/Scripts/pip3-script.py
+venv/Scripts/pip3.7-script.py
+venv/Scripts/pip3.7.exe
+venv/Scripts/pip3.exe

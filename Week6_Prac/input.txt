@@ -1,8 +1,0 @@
-text='''Tutu received £5
-Cici received  £10
-Cici spent £1.90
-Tutu spent £1.50
-Tutu spent £1
-Didi received  £3.00
-Didi received £2.90
-Didi spent £0.90'''
