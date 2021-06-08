@@ -32,13 +32,22 @@ def rename_path(path):
 
 
 def rename_file(filename):
-    verify_str = "-01-01"
-    replace_str = "-01-KG"
-    if verify_str in filename:
-        new_filename = filename.replace(verify_str, replace_str)
-        return new_filename
-    else:
-        return filename
+    verify_str_list = ["-01-01", "-05-KG", "-05-PI", "-05-CE", "-05-UM"]
+    replace_str_list = ["-01-KG", "-01-PI", "-01-CE", "-01-UM"]
+    for verify_str in verify_str_list:
+        if verify_str in filename:
+            if verify_str == verify_str_list[2]:
+                new_filename = filename.replace(verify_str, replace_str_list[1])
+            elif verify_str == verify_str_list[3]:
+                new_filename = filename.replace(verify_str, replace_str_list[2])
+            elif verify_str == verify_str_list[4]:
+                new_filename = filename.replace(verify_str, replace_str_list[3])
+            else:
+                new_filename = filename.replace(verify_str, replace_str_list[0])
+            return new_filename
+        else:
+            continue
+    return filename
 
 
 df['template_number'] = df['template_number'].apply(rename_dir)

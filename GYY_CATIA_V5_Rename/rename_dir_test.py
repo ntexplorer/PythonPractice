@@ -4,6 +4,7 @@
 @File: rename_dir_test.py
 @Create Time: 2021/6/7 10:16
 """
+import os
 
 test_string = "KG-DM00-0006-UF-KG"
 split_str = test_string.split("-")
@@ -20,11 +21,14 @@ split_str_2 = test_string.split("-")
 split_str_2.append("EF")
 print(split_str_2)
 
-# path = input("Enter the path:")
-# for dir_name, sub_dirs, filenames in os.walk(path):
-#     print(dir_name)
-#     print(sub_dirs)
-#     print(filenames)
+path = input("Enter the path:")
+for dir_name, sub_dirs, filenames in os.walk(path):
+    print(dir_name)
+    print(sub_dirs)
+    print(filenames)
+
+print("**********")
+print(os.listdir(path))
 
 test_string_3 = "KG-DM00-0006-UF-01-01.catpart"
 verify_str = "-01-01"
