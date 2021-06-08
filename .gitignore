@@ -84,3 +84,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Data file from work
+GYY_CATIA_V5_Rename/data/
+GYY_CATIA_V5_Rename/data/new_2.xlsx
