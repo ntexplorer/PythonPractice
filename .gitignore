@@ -86,5 +86,5 @@ docs/_build/
 target/
 
 # Data file from work
-GYY_CATIA_V5_Rename/data/
-GYY_CATIA_V5_Rename/data/new_2.xlsx
+GYY/GYY_CATIA_V5_Rename/data/
+GYY/GYY_CATIA_V5_Rename/data/new_2.xlsx

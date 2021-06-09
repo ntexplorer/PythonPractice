@@ -1,0 +1,20 @@
+缺失KG结尾图片的文件夹：
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_1\m_1_3\KG-WD00-0011-UF-01-KG\KG-WD00-0011-UF-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_2\m_2_4\KG-CN13-1013-DT-01-KG\KG-CN13-1013-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_2\m_2_4\KG-CN13-1022-DT-01-KG\KG-CN13-1022-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-2007-MF-01-KG\KG-MS00-2007-MF-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-2008-MF-01-KG\KG-MS00-2008-MF-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-2009-MF-01-KG\KG-MS00-2009-MF-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-2010-MF-01-KG\KG-MS00-2010-MF-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4001-DT-01-KG\KG-MS00-4001-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4002-DT-01-KG\KG-MS00-4002-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4003-DT-01-KG\KG-MS00-4003-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4011-DT-01-KG\KG-MS00-4011-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4012-DT-01-KG\KG-MS00-4012-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4013-DT-01-KG\KG-MS00-4013-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4014-DT-01-KG\KG-MS00-4014-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4015-DT-01-KG\KG-MS00-4015-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4016-DT-01-KG\KG-MS00-4016-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-4021-DT-01-KG\KG-MS00-4021-DT-01-KG.jpg
+C:\Users\Tian Zhang\Desktop\test\screenhot\m_5\KG-MS00-8001-DT-01-KG\KG-MS00-8001-DT-01-KG.jpg
+共缺失18个文件
