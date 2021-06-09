@@ -42,3 +42,4 @@ if __name__ == '__main__':
     target_path = input("请输入文件夹绝对路径：")
     count = image_check(target_path)
     print("目录已检查完毕，共缺失", count, "个文件")
+    input("回车键退出")

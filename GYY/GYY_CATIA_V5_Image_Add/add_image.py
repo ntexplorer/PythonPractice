@@ -39,3 +39,4 @@ if __name__ == '__main__':
     target_path = input("请输入目标文件夹绝对路径：")
     count = copy_image(origin_path, target_path)
     print("目录已复制完成，已成功复制", count, "个文件")
+    input("回车键退出")
